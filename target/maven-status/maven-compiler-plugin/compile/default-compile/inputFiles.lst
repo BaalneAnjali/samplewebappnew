@@ -1,0 +1,13 @@
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/tutorial/addressbook/backend/ContactService.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/utilities/StringUtilities.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/utilities/GenericComparator.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/utilities/PropertyLoader.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/utilities/PrepareTargetMethod.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/tutorial/addressbook/AddressbookUI.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/tutorial/addressbook/backend/Contact.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/helper/GenericResourceBundle.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/utilities/LoggerStackTraceUtil.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/tutorial/addressbook/ContactForm.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/utilities/CaseInsensitiveComparator.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/utilities/HexAsciiConvertor.java
+/usr/share/maven/samplejavappforpractice/src/main/java/com/devopsdemo/utilities/PropertyHelper.java
